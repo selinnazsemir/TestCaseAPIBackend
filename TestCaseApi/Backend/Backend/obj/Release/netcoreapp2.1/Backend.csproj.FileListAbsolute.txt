@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\bin\Release\netcoreapp2.1\Backend.deps.json
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\bin\Release\netcoreapp2.1\Backend.runtimeconfig.json
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\bin\Release\netcoreapp2.1\Backend.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\bin\Release\netcoreapp2.1\Backend.dll
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\bin\Release\netcoreapp2.1\Backend.pdb
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\obj\Release\netcoreapp2.1\Backend.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\obj\Release\netcoreapp2.1\Backend.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\obj\Release\netcoreapp2.1\Backend.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\obj\Release\netcoreapp2.1\Backend.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\obj\Release\netcoreapp2.1\Backend.AssemblyInfo.cs
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\obj\Release\netcoreapp2.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\obj\Release\netcoreapp2.1\Backend.dll
+C:\Users\Asus\Desktop\bankaBackend\Backend\Backend\obj\Release\netcoreapp2.1\Backend.pdb
